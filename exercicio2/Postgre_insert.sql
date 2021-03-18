@@ -49,7 +49,6 @@ CREATE TABLE Daily_Inventory
   INSERT INTO date VALUES ('2020-04-14', '202004', '04');
   INSERT INTO date VALUES ('2020-05-22', '202005', '05');
 
-
   INSERT INTO Product VALUES ( '00000001', 'A', 'beer', 4.3);
   INSERT INTO Product VALUES ( '00000002', 'B', 'beer', 2.3);
   INSERT INTO Product VALUES ( '00000003', 'C', 'wine', 3.3);
@@ -58,15 +57,10 @@ CREATE TABLE Daily_Inventory
   INSERT INTO Product VALUES ( '00000006', 'F', 'soda', 2.3);
 
   INSERT INTO WarehouseLocation VALUES ( 'Brazil', 'São Paulo', 'São Paulo', '00000001');
-
   INSERT INTO WarehouseLocation VALUES ( 'Brazil', 'São Paulo', 'Campinas', '00000002');
-
   INSERT INTO WarehouseLocation VALUES ( 'Brazil', 'Rio de Janeiro', 'Rio de Janeiro', '00000003');
-
   INSERT INTO WarehouseLocation VALUES ( 'Brazil', 'São Paulo', 'Paulinia', '00000004');
-
   INSERT INTO WarehouseLocation VALUES ( 'Brazil', 'Bahia', 'Salvador', '00000005');
-
 
   INSERT INTO Daily_Inventory VALUES ( 'SP', 40.3, '00000001', '2020-01-01', '00000001');
   INSERT INTO Daily_Inventory VALUES ( 'RJ', 400.3, '00000001', '2020-02-01', '00000003');
