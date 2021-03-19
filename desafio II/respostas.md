@@ -21,7 +21,7 @@ Respostas:
 Criei um script para a inserção de dados em um DB PostgreSQL (dados fake). Você pode simular esta inserção [aqui](http://sqlfiddle.com/) (escolha a opção PostgreSQL 9.3). Em seguida, para cada pergunta, execute uma query usando os scripts que criei.
 
 i) Este é o retorndo dos dados para esta consulta [(Script1)](exercicio2/first.sql)
-![Scrip1](exercicio2/images/scriptl.PNG)
+![Scrip1](exercicio2/images/script1.PNG)
 
 ii) Este é o retorndo dos dados para esta consulta [(Script2)](exercicio2/first.sql)
 ![Scrip1](exercicio2/images/script2.PNG)
