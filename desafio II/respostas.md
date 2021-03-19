@@ -15,7 +15,9 @@ Resposta: Os dados são apresentados sob três prismas (dimensões): Data, Produ
 Dado o modelo dimensional apresentado, crie as seguintes consultas em SQL:
 
 i) Retornar a evolução da quantidade em estoque por categoria de produto por data;
+
 ii) Retornar a posição de estoque mais recente da quantidade de produtos por categoria;
+
 iii) Retornar a quantidade de produtos distintos que já foram armazenados em cada estado.
 
 Respostas:
