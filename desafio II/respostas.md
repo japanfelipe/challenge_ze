@@ -20,11 +20,11 @@ iii) Retornar a quantidade de produtos distintos que já foram armazenados em ca
 Respostas:
 Criei um script para a inserção de dados em um DB PostgreSQL (dados fake). Você pode simular esta inserção [aqui](http://sqlfiddle.com/) (escolha a opção PostgreSQL 9.3). Em seguida, para cada pergunta, execute uma query usando os scripts que criei.
 
-i) Este é o retorno dos dados para esta consulta [(Script1)](exercicio2/first.sql)
+i) Este é o retorno dos dados para esta consulta [(Script1)](exercicio/first.sql)
 ![Scrip1](exercicio2/images/script1.PNG)
 
-ii) Este é o retorno dos dados para esta consulta [(Script2)](exercicio2/first.sql)
+ii) Este é o retorno dos dados para esta consulta [(Script2)](exercicio2/second.sql)
 ![Scrip1](exercicio2/images/script2.PNG)
 
-iii) Este é o retorno dos dados para esta consulta [(Script3)](exercicio2/first.sql))
+iii) Este é o retorno dos dados para esta consulta [(Script3)](exercicio2/third.sql))
 ![Scrip1](exercicio2/images/script3.PNG)
