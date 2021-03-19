@@ -13,5 +13,6 @@ with t as (
   ON di.ProductID = p.ProductID
   GROUP BY di.DateID, p.ProductCategory
   )
- SELECT * FROM t
+ SELECT dateid, categoria, qtde
+ FROM t
  WHERE rown = 1

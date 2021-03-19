@@ -8,4 +8,3 @@ FROM Daily_Inventory di
 LEFT JOIN WarehouseLocation w
   ON di.WarehouseID = w.WarehouseID
 GROUP BY w.State
-
