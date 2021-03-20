@@ -3,12 +3,12 @@ channels:
   - conda-forge
   - anaconda
 dependencies:
-  - python=3.6.5
-  - matplotlib=2.2.2
-  - seaborn=0.11.0
-  - pandas=0.23.0
-  - ipykernel=5.3.4
-  - pathlib=1.0.1
+  - python==3.6.5
+  - matplotlib==3.3.4
+  - seaborn==0.11.0
+  - pandas==0.23.0
+  - ipykernel==5.3.4
+  - pathlib==1.0.1
   - xlrd==1.2.0
   - pip
   - pip:
