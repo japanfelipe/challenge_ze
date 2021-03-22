@@ -1,30 +1,30 @@
 ## Sumário 
 
-[Introdução](#Introdução)
+[Introdução](#introdução)
 
-[1. Qual a causa raiz da queda na avaliação média dos pedidos?](#1.-Qual-a-causa-raiz-da-queda-na-avaliação-média-dos-pedidos?)
+[1. Qual a causa raiz da queda na avaliação média dos pedidos?](#1.-qual-a-causa-raiz-da-queda-na-avaliação-média-dos-pedidos?)
 
-[1.1.1 Realmente existe uma queda?](#1.1.1-Realmente-existe-uma-queda?)
+[1.1.1 Realmente existe uma queda?](#1.1.1-realmente-existe-uma-queda?)
 
-[1.1.2 Considerações](#1.1.2-Considerações)   
+[1.1.2 Considerações](#1.1.2-considerações)   
 
-[1.2 Qual a causa raiz desta queda?](#1.2-Qual-a-causa-raiz-desta-queda?)
+[1.2 Qual a causa raiz desta queda?](#1.2-qual-a-causa-raiz-desta-queda?)
 
-[1.2.1 A queda ocorreu por conta da redução nas respostas?](#1.2.1-A-queda-ocorreu-por-conta-da-redução-nas-respostas?)
+[1.2.1 A queda ocorreu por conta da redução nas respostas?](#1.2.1-a-queda-ocorreu-por-conta-da-redução-nas-respostas?)
 
-[1.2.2 O período do dia influencia a quantidade de respostas](#1.2.2-O-período-do-dia-influencia-a-quantidade-de-respostas)
+[1.2.2 O período do dia influencia a quantidade de respostas](#1.2.2-o-período-do-dia-influencia-a-quantidade-de-respostas)
 
-[1.2.3 Considerações](#1.2.3-Considerações) 
+[1.2.3 Considerações](#1.2.3-considerações) 
 
-[2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2.-Interromper-os-investimentos-ou-seguir-um-plano-B-para-continuar-aumentando-pedidos?)
+[2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2.-interromper-os-investimentos-ou-seguir-um-plano-B-para-continuar-aumentando-pedidos?)
 
-[2.1.1 O aumento de pedidos reduziu a avaliação média?](#2.1.1-O-aumento-de-pedidos-reduziu-a-avaliação-média?)
+[2.1.1 O aumento de pedidos reduziu a avaliação média?](#2.1.1-o-aumento-de-pedidos-reduziu-a-avaliação-média?)
 
-[2.1.2 Qual foi o impacto do aumento do investimento em marketing?](#2.1.2-Qual-foi-o-impacto-do-aumento-do-investimento-em-marketing?)
+[2.1.2 Qual foi o impacto do aumento do investimento em marketing?](#2.1.2-qual-foi-o-impacto-do-aumento-do-investimento-em-marketing?)
 
-[2.1.3 Conclusão (recomendação de ação)](#2.1.3-Conclusão-(recomendação-de-ação))
+[2.1.3 Conclusão (recomendação de ação)](#2.1.3-conclusão-(recomendação-de-ação))
 
-[Considerações finais e próximos passos](#Considerações-finais-e-próximos-passos)
+[Considerações finais e próximos passos](#considerações-finais-e-próximos-passos)
 <br>
 <br>
 
