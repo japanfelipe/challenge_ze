@@ -2,27 +2,27 @@
 
 [Introdução](#introdução)
 
-##### [1. Qual a causa raiz da queda na avaliação média dos pedidos?](#1.-qual-a-causa-raiz-da-queda-na-avaliação-média-dos-pedidos)
+##### [1. Qual a causa raiz da queda na avaliação média dos pedidos?](#1-qual-a-causa-raiz-da-queda-na-avaliação-média-dos-pedidos)
 
-[1.1.1 Realmente existe uma queda?](#1.1.1-realmente-existe-uma-queda)
+[1.1.1 Realmente existe uma queda?](#111-realmente-existe-uma-queda)
 
-[1.1.2 Considerações](#1.1.2-considerações)   
+[1.1.2 Considerações](#112-considerações)   
  
-[1.2 Qual a causa raiz desta queda?](#1.2-qual-a-causa-raiz-desta-queda)
+[1.2 Qual a causa raiz desta queda?](#12-qual-a-causa-raiz-desta-queda)
 
-[1.2.1 A queda ocorreu por conta da redução nas respostas?](#1.2.1-a-queda-ocorreu-por-conta-da-redução-nas-respostas)
+[1.2.1 A queda ocorreu por conta da redução nas respostas?](#121-a-queda-ocorreu-por-conta-da-redução-nas-respostas)
 
-[1.2.2 O período do dia influencia a quantidade de respostas](#1.2.2-o-período-do-dia-influencia-a-quantidade-de-respostas)
+[1.2.2 O período do dia influencia a quantidade de respostas](#122-o-período-do-dia-influencia-a-quantidade-de-respostas)
 
-[1.2.3 Considerações](#1.2.3-considerações) 
+[1.2.3 Considerações](#123-considerações) 
 
-##### [2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2.-interromper-os-investimentos-ou-seguir-um-plano-B-para-continuar-aumentando-pedidos)
+##### [2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2-interromper-os-investimentos-ou-seguir-um-plano-B-para-continuar-aumentando-pedidos)
 
-[2.1.1 O aumento de pedidos reduziu a avaliação média?](#2.1.1-o-aumento-de-pedidos-reduziu-a-avaliação-média)
+[2.1.1 O aumento de pedidos reduziu a avaliação média?](#211-o-aumento-de-pedidos-reduziu-a-avaliação-média)
 
-[2.1.2 Qual foi o impacto do aumento do investimento em marketing?](#2.1.2-qual-foi-o-impacto-do-aumento-do-investimento-em-marketing)
+[2.1.2 Qual foi o impacto do aumento do investimento em marketing?](#212-qual-foi-o-impacto-do-aumento-do-investimento-em-marketing)
 
-[2.1.3 Conclusão (recomendação de ação)](#2.1.3-conclusão-(recomendação-de-ação))
+[2.1.3 Conclusão (recomendação de ação)](#213-conclusão-(recomendação-de-ação))
 
 [Considerações finais e próximos passos](#considerações-finais-e-próximos-passos)
 <br>
@@ -87,7 +87,7 @@ A partir da questão acima, definimos 2 objetivos principais:
 <br>
 <br>
 
->A participação dela sobre o total caiu quase 5 p.p. <p></p>
+>A participação dela sobre o total caiu quase 5 p.p (5 estrelas jul x jun). <p></p>
 ![](images/res_por_nota.png) ![](images/par_por_nota.png) 
 <br>
 <br>
@@ -123,14 +123,15 @@ No gráfico abaixo, observamos duas coisas:
 
 > Interessante notar que a avaliação média se apresentou diferente, dependendo do período do dia (inclusive no mês de julho): <p></p>
 ![](images/av_por_periodo.png) <p></p>
-Enquanto que no período das 18h às 24h a avaliação média se mantém estávavel entre os meses junho a setembro, o período 12h às 18h se destaca pela queda que apresenta na avaliação média em julho. O periodo 6h às 12h também apresenta queda, mas em agosto.
+Enquanto que no período das 18h às 24h a avaliação média se mantém estávavel entre os meses junho a setembro, o período 12h às 18h se destaca pela queda que apresenta na avaliação média em julho. O periodo 6h às 12h também apresenta queda, mas em agosto. <p></p>
+##### Os clientes diurnos são os mesmos clientes noturnos? Será que o nível de servido muda, porque são clientes com perfis diferentes?
 <br>
 <br>
 <br>
 <br>
 <br>
 
-> A queda na quantidade de avaliações 5 estrelas (que já vimos anteriormente que é onde mais caiu no período analisado), é bem maior no período 18h-24h. **Esta queda de cerca de 170 avaliações (280-110) representa quase 80% da queda total de avaliações 5 estrelas.** <p></p>
+> A queda na quantidade de avaliações 5 estrelas (que já vimos anteriormente que é onde mais caiu no período analisado), é bem maior no período 12h-18h. **Esta queda de cerca de 170 avaliações (280-110) representa quase 80% da queda total de avaliações 5 estrelas.** <p></p>
 ![](images/resp_nota_5_period.png)
 <br>
 <br>
@@ -202,7 +203,7 @@ Se removermos as avaliações dos pedidos que foram feitos das 6h às 18hs, este
 
 > Um ponto interessante a se notar é que os clientes que já compraram algumas vezes apresentam uma avaliação média melhor que aqueles que compraram uma ou duas vezes.  
 ![](images/av_vez_da_compra.png) <p></p>
-Isso significa que um aumento de novos usuários **pode** contribuir para a redução da avaliação média. 
+Isso significa que um aumento de novos usuários **pode** contribuir para a redução da avaliação média (hipótese). 
 <br>
 <br> 
 <br>
@@ -260,7 +261,7 @@ Seria possível direcionar as campanhas para buscar alavancar os pedidos de segu
 
 Com base nos dados analisados, 
 
-##### i) recomendamos a manutenção dos investimentos, porém, direcionando-os para:
+##### i) Recomendamos a manutenção dos investimentos, porém, direcionando-os para:
 
 - Aumento de pedidos de segunda à quinta, onde temos atualmente menos pedidos, menos bad reasons (1 a 4 estrelas) e uma relação pedidos x bad reason melhor.
 - Aumento de pedidos para o período do dia 12hs às 18hs, que apresentou queda nos meses julho e agosto.
