@@ -2,12 +2,12 @@
 
 [Introdução](#introdução)
 
-[1. Qual a causa raiz da queda na avaliação média dos pedidos?](#1.-qual-a-causa-raiz-da-queda-na-avaliação-média-dos-pedidos)
+##### [1. Qual a causa raiz da queda na avaliação média dos pedidos?](#1.-qual-a-causa-raiz-da-queda-na-avaliação-média-dos-pedidos)
 
 [1.1.1 Realmente existe uma queda?](#1.1.1-realmente-existe-uma-queda)
 
 [1.1.2 Considerações](#1.1.2-considerações)   
-
+ 
 [1.2 Qual a causa raiz desta queda?](#1.2-qual-a-causa-raiz-desta-queda)
 
 [1.2.1 A queda ocorreu por conta da redução nas respostas?](#1.2.1-a-queda-ocorreu-por-conta-da-redução-nas-respostas)
@@ -16,7 +16,7 @@
 
 [1.2.3 Considerações](#1.2.3-considerações) 
 
-[2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2.-interromper-os-investimentos-ou-seguir-um-plano-B-para-continuar-aumentando-pedidos)
+##### [2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2.-interromper-os-investimentos-ou-seguir-um-plano-B-para-continuar-aumentando-pedidos)
 
 [2.1.1 O aumento de pedidos reduziu a avaliação média?](#2.1.1-o-aumento-de-pedidos-reduziu-a-avaliação-média)
 
@@ -51,6 +51,7 @@ A partir da questão acima, definimos 2 objetivos principais:
 <br>
 <br>
 <br>
+<br>
 
 >Também é possível observar essa queda quando analisado o mês fechado.
 >Outros meses do ano também chegaram próximo do patarmar de julho. <p></p>
@@ -59,9 +60,11 @@ A partir da questão acima, definimos 2 objetivos principais:
 <br>
 <br>
 <br>
+<br>
 
 >Quando olhamos a quantidade de respostas recebidas, ou seja, quantos clientes nos avaliaram ao longo dos dias, vemos novamente um forte movimento de queda no início de julho.
 ![](images/qtde_res_dia.png)
+<br>
 <br>
 <br>
 <br>
@@ -74,12 +77,14 @@ A partir da questão acima, definimos 2 objetivos principais:
 <br>
 <br>
 <br>
+<br>
 
 >Quando observamos a quantidade de respostas por nota, vemos que a nota 5 foi a que apresentou maior queda (95% de toda a queda está na nota 5).
 ![](images/av_por_nota.png) 
 <br> 
 <br> 
 <br>  
+<br>
 <br>
 
 >A participação dela sobre o total caiu quase 5 p.p. <p></p>
@@ -88,10 +93,13 @@ A partir da questão acima, definimos 2 objetivos principais:
 <br>
 <br>
 <br>
+<br>
        
 #### 1.1.2 Considerações
 Temos elementos para acreditar que realmente existiu uma queda no mês de julho. Contudo, os gráficos parecem sugerir que não houve queda nas avaliações, houve queda nas avaliações **de nota 5**. A princípio, isso não indica necessariamente um aumento na insatisfação dos usuários/consumidores, já que não vem acompanhado de aumento nas respostas 1, 2, 3 e 4 (em julho).
-
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -109,12 +117,14 @@ No gráfico abaixo, observamos duas coisas:
 <br>
 <br>
 <br>
+<br>
 
 ##### 1.2.2 O período do dia influencia a quantidade de respostas
 
 > Interessante notar que a avaliação média se apresentou diferente, dependendo do período do dia (inclusive no mês de julho): <p></p>
 ![](images/av_por_periodo.png) <p></p>
 Enquanto que no período das 18h às 24h a avaliação média se mantém estávavel entre os meses junho a setembro, o período 12h às 18h se destaca pela queda que apresenta na avaliação média em julho. O periodo 6h às 12h também apresenta queda, mas em agosto.
+<br>
 <br>
 <br>
 <br>
@@ -126,18 +136,21 @@ Enquanto que no período das 18h às 24h a avaliação média se mantém estáva
 <br>
 <br>
 <br>
+<br>
 
-> Uma redução de pedidos e clientes acontece nos meses julho e agosto no período diurno (6h às 18h )- apesar da receita ter crescido. Essa queda de pedidos e clientes não foi muito sentida como um todo porque o período das 18h às 24h apresentou crescimento neste mesmo período (jul/ago). <p></p>
+> Uma redução de pedidos e clientes acontece nos meses julho e agosto no período diurno (6h às 18h ) - apesar da receita ter crescido. Essa queda de pedidos e clientes não foi muito sentida como um todo porque o período das 18h às 24h apresentou crescimento neste mesmo período (jul/ago). <p></p>
 ![](images/rev_ord_users_12_18.png) <p></p>
 
 
 > No período das 6h às 12hs, a redução de pedidos e clientes é ainda mais agressiva que no período 12h-18h.
-![](images/rev_ord_users_6_12.png)
+![](images/rev_ord_users_6_12.png) <p></p>
 
-A queda de pedidos em ambos os períodos pode ser a causa da queda nas respostas (principalmente 5 estrelas), e consequentemente, a queda na avaliação média.  
+A queda de pedidos em ambos os períodos (e não apenas o não envio do e-mail) também pode ser a causa da queda nas respostas (principalmente 5 estrelas), e consequentemente, a queda na avaliação média.  
 <br>
+<br> 
 <br>
-
+<br> 
+<br>
 
 
 ##### 1.2.3 Considerações
@@ -149,9 +162,11 @@ A queda de pedidos em ambos os períodos pode ser a causa da queda nas respostas
 
 Se removermos as avaliações dos pedidos que foram feitos das 6h às 18hs, este seria o cenário: <p></p>
 ![](images/av_por_nota_noturno.png)
+<br> 
 <br>
 <br>
-
+<br>
+<br>
 
 
 #### 2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?
@@ -164,42 +179,102 @@ Se removermos as avaliações dos pedidos que foram feitos das 6h às 18hs, este
 <br>
 <br>
 <br>
+<br>
 
->Esse aumento de pedidos ocorre em setembro apenas, quando também voltar a crescer o número de respostas (+40%) e a avalição média assim como a quantidade de respostas nota 5 volta a crescer. <p></p>
+> Esse aumento de pedidos ocorre em setembro apenas, quando também voltar a crescer o número de respostas (+40%) e a quantidade de respostas nota 5 volta a crescer também (mas volta a cair em outubro). 
 ![](images/av_por_nota.png)
 <br>
 <br>
 <br>
 <br>
+<br>
+
+> Porém, a avalição média cai em setembro - com o aumento das avaliações de 1 a 4 estrelas - e cai em outubro - com a redução das avaliações 5 estrelas. <p></p>
+![](images/av_mes.png) <p></p>
+![](images/av_1_a_4.png)
+![](images/av_5.png)
+<br>
+<br> 
+<br>
+<br>
+<br>
+
+
+> Um ponto interessante a se notar é que os clientes que já compraram algumas vezes apresentam uma avaliação média melhor que aqueles que compraram uma ou duas vezes.  
+![](images/av_vez_da_compra.png) <p></p>
+Isso significa que um aumento de novos usuários **pode** contribuir para a redução da avaliação média. 
+<br>
+<br> 
+<br>
+<br>
+<br>
+ 
+
 
 ##### 2.1.2 Qual foi o impacto do aumento do investimento em marketing?
 
-> Esse aumento no investimento ocorrido a partir de agosto aparentemente* trouxe mais pedidos e users, já que em setembro e outubro observamos este aumento (como visto anteriormente).
+> Esse aumento no investimento ocorrido a partir de agosto aparentemente* trouxe mais pedidos e users, já que em setembro e outubro observamos este aumento.
 ![](images/rev_ord_users.png) 
 ###### *Não fizemos uma análise de causa e efeito. 
 <br>
 <br> 
 <br>
+<br> 
 <br>
 
-> Interessante notar que a receita total e a receita por cliente (abaixo) já vinham aumentando desde julho (talvez, como reflexo da mudança da plataforma).
-![](images/rec_por_user.png)
+> Abrindo isso por dia da semana, é possível observar que na sexta e no sábado o volume de pedidos é maior. Não é algo que passou a acontecer após os investimentos, já era o comportamento anterior, porém, esse aumento de pedidos vem acompanhado de aumento de notas de 1 a 4 estrelas (bad reasons). <P></P>
+![](images/ped_mes_diasemana.png)
+![](images/av_1_a_4_mes_diasemana.png) <p></p>
+> Segunda, terça e quarta, além de terem menos pedidos, tem menos bad reasons também.  <p></p>
 <br>
-<br>
-<br>
-<br>
+<br> 
+<br> 
 <br>
 <br>
 
-> Esse aumento de pedidos é mais expessivo no período 12h às 18h e principalmente no período da noite (18h às 24h), onde a avaliação média foi maior. <p></p>
-![](images/ped_dia_mes.png)
+> Sexta e sábado concentram quase 55% das avaliações de 1 a 4 estrelas (2017).  <p></p>
+![](images/av_1_a_4_diasemana.png)
+<br>
+<br> 
+<br> 
+<br>
+<br>
+
+> Além disso, entre sexta e domingo, para cada cerca de 25 pedidos, temos uma avaliação abaixo de 5 estrelas. Segunda, terça e quarta apresentam números bem mais interessantes.  <p></p>
+![](images/ped_res_1_a_4_ano.png)
+![](images/ped_res_1_a_4_jul_out.png)
+<br>
+<br> 
+<br> 
+<br>
+<br>
+
+Seria possível direcionar as campanhas para buscar alavancar os pedidos de segunda à quinta?
+<br>
+<br> 
+<br> 
+<br>
+<br>
 
 ##### 2.1.3 Conclusão (recomendação de ação)
 
-Manter o investimento em marketing pelas seguintes razões:
+Com base nos dados analisados, 
 
-- O aumento do investimento em Marketing pode ser a causa do aumento de pedidos a partir de setembro.
-- Do ponto de vista da avaliação do serviço, 
+##### i) recomendamos a manutenção dos investimentos, porém, direcionando-os para:
 
+- Aumento de pedidos de segunda à quinta, onde temos atualmente menos pedidos, menos bad reasons (1 a 4 estrelas) e uma relação pedidos x bad reason melhor.
+- Aumento de pedidos para o período do dia 12hs às 18hs, que apresentou queda nos meses julho e agosto.
 
-### Considerações finais e próximos passos
+##### ii) Como há a possibilidade de as operações não conseguirem lidar com um aumento de demanda,
+- Fazer um levantamento de clientes/regiões com maiores potenciais de suportar esse aumento de pedidos, então direcionar a campanha.
+- Buscar proximidade com a operação para entender suas dificuldades e sucessos, em especial conhecer os clientes com melhores avaliações. A ideia é ajudar os parceiros a mehorarem o nível de serviços, base benchmarkings, cases de sucesso e etc.
+
+<br>
+<br> 
+<br> 
+<br>
+<br>
+
+### Considerações finais e próximos passos  
+
+Há espaço para muitas outras análises e, abaixo, elencamos:
