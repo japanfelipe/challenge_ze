@@ -1,6 +1,6 @@
 # Challenge Zé
 
-Este repositório contém a análise dos dados do challenge do Zé Delivery - Desafio I. A apresentação da análise encontra-se [aqui](respostas.md).
+Este repositório contém a análise dos dados do challenge do Zé Delivery - Desafio I. A apresentação da análise encontra-se [aqui](apresentacao.md).
 <br>
 <br>
 
