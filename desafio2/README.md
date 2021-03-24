@@ -29,5 +29,5 @@ Resposta i) Este é o retorno dos dados para esta consulta [(Script1)](exercicio
 Resposta ii) Este é o retorno dos dados para esta consulta [(Script2)](exercicio2/second.sql)
 ![Scrip1](exercicio2/images/script2.PNG)
 
-Resposta iii) Este é o retorno dos dados para esta consulta [(Script3)](exercicio2/third.sql))
+Resposta iii) Este é o retorno dos dados para esta consulta [(Script3)](exercicio2/third.sql)
 ![Scrip1](exercicio2/images/script3.PNG)
