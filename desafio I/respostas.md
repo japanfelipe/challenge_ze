@@ -16,7 +16,7 @@
 
 [1.2.3 Considerações](#123-considerações) 
 
-##### [2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2-interromper-os-investimentos-ou-seguir-um-plano-B-para-continuar-aumentando-pedidos)
+##### [2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2-interromper-os-investimentos-ou-seguir-um-plano-b-para-continuar-aumentando-pedidos)
 
 [2.1.1 O aumento de pedidos reduziu a avaliação média?](#211-o-aumento-de-pedidos-reduziu-a-avaliação-média)
 
@@ -261,15 +261,21 @@ Seria possível direcionar as campanhas para buscar alavancar os pedidos de segu
 
 Com base nos dados analisados, 
 
-##### i) Recomendamos a manutenção dos investimentos, porém, direcionando-os para:
+##### i) Recomendamos a manutenção dos investimentos, porém, direcionando-os, se possível, para:
 
-- Aumento de pedidos de segunda à quinta, onde temos atualmente menos pedidos, menos bad reasons (1 a 4 estrelas) e uma relação pedidos x bad reason melhor.
+- Aumento de pedidos de segunda à quinta, onde temos atualmente menos pedidos, menos bad reasons (1 a 4 estrelas) e uma relação pedidos x bad reason melhor (onde buscar receita?).
 - Aumento de pedidos para o período do dia 12hs às 18hs, que apresentou queda nos meses julho e agosto.
 
 ##### ii) Como há a possibilidade de as operações não conseguirem lidar com um aumento de demanda,
 - Fazer um levantamento de clientes/regiões com maiores potenciais de suportar esse aumento de pedidos, então direcionar a campanha.
-- Buscar proximidade com a operação para entender suas dificuldades e sucessos, em especial conhecer os clientes com melhores avaliações. A ideia é ajudar os parceiros a mehorarem o nível de serviços, base benchmarkings, cases de sucesso e etc.
+- Buscar proximidade com a operação para entender suas dificuldades e sucessos, em especial conhecer os clientes com melhores avaliações. A ideia é ajudar os parceiros a mehorarem o nível de serviços, baseado benchmarkings, cases de sucesso e etc.
 
+##### iii) Em relação aos users,
+- Ele pode acompanhar a entrega?
+- Há a opção de chat, para que o cliente possa falar com o nosso parceiro ou motoboy?
+- Uma das razões da demora nas entregas é o erro de cadastro do endereço do cliente. Seria possível implementar uma validação validação do endereço? Seja no momento do cadastro ou na hora de confirmar o pedido. Além disso, permitir que o estabelecimento parceiro posso comunicar o erro do cadastro ao Zé.
+
+Reforço que apesar de ser muito importante ponderar se as operações podem ou não dar conta da demanda em caso de aumento de pedidos (até mesmo pelo compromisso dos 35min.), é necessario entender mais de perto (junto aos clientes) qual é exatamente a dor deles numa situação de alta demanda. Falta de produto? Falta de motoboy? Entregas mais distantes? Fim do dia boys começam a parar? Conhecer melhor isso pode nos dar mais insumos para direcionar nossas análises, criar novas soluções, melhorar a experiência do usuário e dos parceiros.
 <br>
 <br> 
 <br> 
@@ -278,4 +284,10 @@ Com base nos dados analisados,
 
 ### Considerações finais e próximos passos  
 
-Há espaço para muitas outras análises e, abaixo, elencamos:
+Há espaço para muitas outras análises. Vários pontos não foram cobertos ou respondidos. Aqui, elencamos alguns e recomendamos que sejam considerados em futuras análises:
+
+- Clientes na primera e/ou segunda compra realmente têm uma avaliação média inferior àqules que estão na terceira compra (ou quarta, quinta etc.)?
+- Porque os pedidos do período das 6hs às 12hs caem bruscamente a partir de julho?
+- Como se dá a relação causal do impacto do aumento do investimentos em marketing no aumento de pedidos, clientes e receita? O aumento destas métricas realmente foi resultado do aumento do investimento? De quanto foi esse aumento? Quanto foi crescimento orgânico?
+- Como tem sido a expansão para os demais estados e cidades? De maneira planejada ou orgânica?
+- De julho em diante, um cliente em especial (user12547) começa a concentrar boa parte da receita. Em outubro, ele chega a concentrar mais de 30% da receita. Que tipo de cliente é este? Buffet? Serviço de eventos? Existe, aí, um pefil de cliente diferente dos demais?
