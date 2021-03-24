@@ -2,7 +2,7 @@
 
 [Introdução](#introdução)
 
-##### [1. Qual a causa raiz da queda na avaliação média dos pedidos?](#1-qual-a-causa-raiz-da-queda-na-avaliação-média-dos-pedidos)
+##### [1. Qual a causa raiz da queda na avaliação média dos pedidos?](#1-qual-a-causa-raiz-da-queda-na-avaliação-média-dos-pedidos-1)
 
 [1.1.1 Realmente existe uma queda?](#111-realmente-existe-uma-queda)
 
@@ -16,7 +16,7 @@
 
 [1.2.3 Considerações](#123-considerações) 
 
-##### [2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2-interromper-os-investimentos-ou-seguir-um-plano-b-para-continuar-aumentando-pedidos)
+##### [2. Interromper os investimentos ou seguir um plano B para continuar aumentando pedidos?](#2-interromper-os-investimentos-ou-seguir-um-plano-b-para-continuar-aumentando-pedidos-1)
 
 [2.1.1 O aumento de pedidos reduziu a avaliação média?](#211-o-aumento-de-pedidos-reduziu-a-avaliação-média)
 
