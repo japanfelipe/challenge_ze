@@ -31,7 +31,7 @@ Mais informações [aqui.](https://queirozf.com/entries/jupyter-kernels-how-to-a
 python -m ipykernel install --user --name=ze_delivery
 ```
 
-- Abra o jupyter lab e selecione o kernel escale no canto superior direito da tela.
+- Abra o jupyter lab e selecione o kernel zé no canto superior direito da tela.
 <br>
 <br>
 
